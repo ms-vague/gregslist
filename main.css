@@ -2,23 +2,16 @@
 	box-sizing: border-box;
 }
 
-body {
-	margin: 0;
-	padding: 10px;
-}
-
 header {
 	position: fixed;
+	height: 50px;
 	top: 0;
 	right: 0;
 	left: 0;
-	background-color: grey;
+	background-color: #E5E7E9;
 }
 
-.top_nav {
-	position: relative;
-}
+.top_links {
 
-h2 {
-	display: inline-block;
+	left: 10px;
 }
